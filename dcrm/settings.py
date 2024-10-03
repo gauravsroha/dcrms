@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'elderco',
         'USER': 'root',
         'PASSWORD': 'password123',
-        'HOST': 'localhost',
+        'HOST': 'db',
         'PORT': '3306',
     }
 }
